@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"平成初期　平野東、本町","order":1,"parentId":0,"scrollX":4358.666666666667,"scrollY":7034,"quick":false},
+{"id":2,"expanded":true,"name":"OPムービー","order":3,"parentId":1,"scrollX":430,"scrollY":314,"quick":false},
+{"id":3,"expanded":true,"name":"サンライズ室内","order":6,"parentId":1,"scrollX":397.3333333333333,"scrollY":338.6666666666667,"quick":false},
+{"id":4,"expanded":true,"name":"OPテロップ","order":4,"parentId":2,"scrollX":435.3333333333333,"scrollY":387.3333333333333,"quick":false},
+{"id":5,"expanded":false,"name":"サンライズ外〜大念仏","order":7,"parentId":3,"scrollX":2020.6666666666667,"scrollY":892,"quick":false},
+{"id":6,"expanded":false,"name":"大念仏　内部","order":8,"parentId":3,"scrollX":2096,"scrollY":1686.6666666666667,"quick":false},
+{"id":7,"expanded":true,"name":"kuro","order":5,"parentId":4,"scrollX":435.3333333333333,"scrollY":344.6666666666667,"quick":false},
+{"id":8,"expanded":true,"name":"MAP008","order":9,"parentId":1,"scrollX":435.3333333333333,"scrollY":282.6666666666667,"quick":false},
+{"id":9,"expanded":true,"name":"平成平野　内部","order":2,"parentId":1,"scrollX":4510,"scrollY":784.6666666666666,"quick":false},
+{"id":10,"expanded":true,"name":"思い出","order":10,"parentId":8,"scrollX":4558.666666666667,"scrollY":7029.333333333333,"quick":false}
+]

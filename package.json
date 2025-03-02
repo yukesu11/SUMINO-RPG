@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb",
+    "window": {
+        "title": "SUMINO-RPG",
+        "width": 2220,
+        "height": 1268,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
